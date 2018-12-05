@@ -1,4 +1,3 @@
-fourth
 third
 second
 first
